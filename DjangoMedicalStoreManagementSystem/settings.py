@@ -26,7 +26,7 @@ SECRET_KEY = '3zue&@nv@q_*70)!#ntcfxn8k(k8xa#o-q+jzk$l&+xj%)(51r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'ives-django-backend.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'ives-backend.herokuapp.com']
 
 
 # Application definition
